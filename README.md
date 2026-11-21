@@ -9,7 +9,7 @@ A production-shaped, event-driven platform that ingests alerts, correlates them 
 
 ## 📚 Documentation
 
-| Doc | Description |
+| File | Description |
 |---|---|
 | **[technologies.md](./technologies.md)** | Full tech inventory |
 
