@@ -76,26 +76,29 @@ Auto-purge — configurable per-collection caps
 Monitoring — Prometheus + Grafana out of the box 
 
 ## 🧪 Tests
-# Frontend
+### Frontend
+```
 cd frontend && npm test
-
-# Backend
+```
+#### Backend
+```
 cd backend && mvn test              # unit + component
 cd backend && mvn verify            # + integration (Docker required)
-
+```
 
 
 ## 🚀 Quick start
 
-```bash
+```
+
 git clone <repo-url>
 cd real-time-alert-correlation-engine/backend
 
 cp .env.example .env
 # Edit .env: REDIS_PASSWORD, MONGO_PASSWORD, SUPABASE_*
 docker compose up --build -d
-
-# Frontend will be at http://localhost:4000
+```
+-  Frontend will be at http://localhost:4000
 
 🛡️ Safety defaults
 
@@ -116,16 +119,16 @@ docker compose up --build -d
 - Everything works out of the box in mock mode — full pipeline runs, zero cost, no PII leaves the network.
 
 
-🧪 Tests
+## 🧪 Tests
 
-# Frontend
+### Frontend
 cd frontend && npm test
 
-# Backend
+### Backend
 cd backend && mvn test              # unit + component
 cd backend && mvn verify            # + integration (Docker required)
 
-🔐 Security
+## 🔐 Security
 
 - JWT verified via Supabase JWKS (RS256) at every layer
 
@@ -137,7 +140,7 @@ cd backend && mvn verify            # + integration (Docker required)
 
 - Storage RLS policies on photos
 
-📞 Support
+## 📞 Support
 
 - Read RUNBOOK.md first
 
