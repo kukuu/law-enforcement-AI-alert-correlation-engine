@@ -35,6 +35,7 @@ See Startup.md for the full guide.
 ```
 ## 🏗️ Architecture at a glance
 
+```
 ┌──────────┐  REST + STOMP  ┌────────────┐
 │ Frontend │◀──────────────▶│API Gateway │
 └──────────┘                └─────┬──────┘
@@ -62,7 +63,7 @@ See Startup.md for the full guide.
            All FE tabs
 
 
-
+```
 ## 🧩 Feature highlights
 
 Live dashboard — KPIs refresh within 1 second of an alert
