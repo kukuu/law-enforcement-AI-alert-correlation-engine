@@ -61,19 +61,19 @@ See Startup.md for the full guide.
 ```
 ## 🧩 Feature highlights
 
-Live dashboard — KPIs refresh within 1 second of an alert
+1. Live dashboard — KPIs refresh within 1 second of an alert
 
-Correlation engine — auto-groups related alerts into incidents
+2. Correlation engine — auto-groups related alerts into incidents
 
-PERSONS registry — photos, offences, risk levels, filters
+3. PERSONS registry — photos, offences, risk levels, filters
 
-Geo map — clustering, heatmap, radius, live updates
+4. Geo map — clustering, heatmap, radius, live updates
 
-Auth — Supabase JWT, roles & scopes
+5. Auth — Supabase JWT, roles & scopes
 
-Auto-purge — configurable per-collection caps
+6. Auto-purge — configurable per-collection caps
 
-Monitoring — Prometheus + Grafana out of the box 
+7. Monitoring — Prometheus + Grafana out of the box 
 
 ## 🧪 Tests
 ### Frontend
