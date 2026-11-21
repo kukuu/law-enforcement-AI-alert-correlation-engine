@@ -7,9 +7,6 @@ Detailed step-by-step of every cross-service interaction.
 ---
 
 ## 1. Boot sequence
----
-
-## 1. Boot sequence
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │ docker compose up -d │
