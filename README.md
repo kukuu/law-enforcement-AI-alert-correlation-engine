@@ -8,12 +8,12 @@ A correlation engine that ingests alerts from multiple law enforcement systems a
 A production-shaped, event-driven platform that ingests alerts, correlates them into incidents, and streams live data to operator dashboards — with tracked persons, geospatial views, full auditability, **and an AI-powered analyst ("Ask COP") that answers natural-language questions grounded in real-time data**.
 
 ## 📚 Documentation
-```
+
 | Doc | Description |
 |---|---|
 | **[technologies.md](./technologies.md)** | Full tech inventory |
 
-```
+
 ## 🚀 Quick start
 
 ```
