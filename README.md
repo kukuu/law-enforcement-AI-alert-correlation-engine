@@ -140,7 +140,7 @@ cd backend && mvn verify            # + integration (Docker required)
 
 - Storage RLS policies on photos
 
-## 📞 Support
+<!--## 📞 Support
 
 - Read RUNBOOK.md first
 
@@ -151,7 +151,7 @@ cd backend && mvn verify            # + integration (Docker required)
 - Escalate with: service name, timestamp, error snippet, docker compose ps
 
 - Full audit trail in Postgres + llm_queries
-
+-->
 ## Snapshot View
 
 - https://basepic.com/J9tKBmGT
