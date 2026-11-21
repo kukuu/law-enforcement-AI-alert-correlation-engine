@@ -75,7 +75,7 @@ See Startup.md for the full guide.
 
 7. Monitoring — Prometheus + Grafana out of the box 
 
-## 🧪 Tests
+<!--## 🧪 Tests
 ### Frontend
 ```
 cd frontend && npm test
@@ -99,8 +99,8 @@ cp .env.example .env
 docker compose up --build -d
 ```
 -  Frontend will be at http://localhost:4000
-
-🛡️ Safety defaults
+-->
+## 🛡️ Safety defaults
 
 - Concern Default Toggle
 
@@ -119,7 +119,7 @@ docker compose up --build -d
 - Everything works out of the box in mock mode — full pipeline runs, zero cost, no PII leaves the network.
 
 
-## 🧪 Tests
+<!--## 🧪 Tests
 
 ### Frontend
 cd frontend && npm test
@@ -127,7 +127,7 @@ cd frontend && npm test
 ### Backend
 cd backend && mvn test              # unit + component
 cd backend && mvn verify            # + integration (Docker required)
-
+-->
 ## 🔐 Security
 
 - JWT verified via Supabase JWKS (RS256) at every layer
