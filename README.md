@@ -12,11 +12,8 @@ A production-shaped, event-driven platform that ingests alerts, correlates them 
 | Doc | Description |
 |---|---|
 | **[Startup.md](./Startup.md)** | How to boot the stack (30-second quick start) |
-| **[RUNBOOK.md](./RUNBOOK.md)** | Operations manual — incidents, diagnostics, recovery |
 | **[WORKFLOW.md](./WORKFLOW.md)** | Service handshaking, sequence diagrams |
 | **[technologies.md](./technologies.md)** | Full tech inventory |
-| **[TECHNICAL_SUMMARY.md](./TECHNICAL_SUMMARY.md)** | Architecture for engineers |
-| **[EXECUTIVE_SUMMARY.md](./EXECUTIVE_SUMMARY.md)** | Business overview |
 
 
 ## 🚀 Quick start
