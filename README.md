@@ -14,7 +14,7 @@ A production-shaped, event-driven platform that ingests alerts, correlates them 
 | **[technologies.md](./technologies.md)** | Full tech inventory |
 
 
-## 🚀 Quick start
+<!--## 🚀 Quick start
 
 ```
 git clone <repo-url>
@@ -25,7 +25,7 @@ cp .env.example .env
 docker compose up --build -d
 
 # Frontend will be at http://localhost:4000
-See Startup.md for the full guide.
+See Startup.md for the full guide.-->
 
 ```
 ## 🏗️ Architecture at a glance
