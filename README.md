@@ -12,7 +12,6 @@ A production-shaped, event-driven platform that ingests alerts, correlates them 
 | Doc | Description |
 |---|---|
 | **[Startup.md](./Startup.md)** | How to boot the stack (30-second quick start) |
-| **[WORKFLOW.md](./WORKFLOW.md)** | Service handshaking, sequence diagrams |
 | **[technologies.md](./technologies.md)** | Full tech inventory |
 
 
