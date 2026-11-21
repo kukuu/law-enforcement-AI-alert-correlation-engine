@@ -152,7 +152,7 @@ cd backend && mvn verify            # + integration (Docker required)
 
 - Full audit trail in Postgres + llm_queries
 
-## Snapshot 
+## Snapshot View
 
 - https://basepic.com/J9tKBmGT
 <!--https://h.uguu.se/vPCCfXofwkHz.mov-->
