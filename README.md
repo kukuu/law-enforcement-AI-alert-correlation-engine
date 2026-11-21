@@ -152,9 +152,10 @@ cd backend && mvn verify            # + integration (Docker required)
 
 - Full audit trail in Postgres + llm_queries
 -->
-## Snapshot View
+## Snapshots
 
 - https://basepic.com/J9tKBmGT
+- https://github.com/kukuu/real-time-law-enforcement-AI-alert-correlation-engine/blob/main/document/backend-build-21-11-2026.png
 <!--https://h.uguu.se/vPCCfXofwkHz.mov-->
   
 ## Code Repository
