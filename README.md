@@ -1,6 +1,6 @@
 # Real Time Law Enforcement AI ALERT Correlation Engine
 
- Author: Alexander Adu-Sarkodie
+ _Author: Alexander Adu-Sarkodie_
 
 A correlation engine that ingests alerts from multiple law enforcement systems and uses AI to deduplicate, link, and prioritize related incidents into unified cases. It is a situational awareness for law enforcement operations.
 
