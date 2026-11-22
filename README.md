@@ -2,10 +2,10 @@
 
  _Author: Alexander Adu-Sarkodie_ : https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
 
-A correlation engine that ingests alerts from multiple law enforcement systems and uses AI to deduplicate, link, and prioritize related incidents into unified cases. It is a situational awareness for law enforcement operations.
+A correlation engine that ingests alerts from multiple law enforcement systems and uses AI to deduplicate, link, and prioritize related incidents into unified cases. 
 
 
-A production-shaped, event-driven platform that ingests alerts, correlates them into incidents, and streams live data to operator dashboards — with tracked persons, geospatial views, full auditability, **and an AI-powered analyst ("Ask COP") that answers natural-language questions grounded in real-time data**.
+It is a situational awareness for law enforcement operations. a production-shaped, event-driven platform that ingests alerts, correlates them into incidents, and streams live data to operator dashboards — with tracked persons, geospatial views, full auditability, **and an AI-powered analyst ("Ask COP") that answers natural-language questions grounded in real-time data**.
 
 ## 📚 Documentation
 
