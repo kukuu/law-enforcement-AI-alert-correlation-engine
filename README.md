@@ -157,6 +157,9 @@ cd backend && mvn verify            # + integration (Docker required)
 - https://basepic.com/J9tKBmGT
 - https://github.com/kukuu/real-time-law-enforcement-AI-alert-correlation-engine/blob/main/document/ask-AI-COP.png
 - https://github.com/kukuu/real-time-law-enforcement-AI-alert-correlation-engine/blob/main/document/backend-build-21-11-2026.png
+- https://github.com/kukuu/real-time-law-enforcement-AI-alert-correlation-engine/blob/main/document/running-backend-simulation-1.png
+- https://github.com/kukuu/real-time-law-enforcement-AI-alert-correlation-engine/blob/main/document/running-backend-simulation-2.png
+- https://github.com/kukuu/real-time-law-enforcement-AI-alert-correlation-engine/blob/main/document/running-backend-simulation-3.png
 <!--https://h.uguu.se/vPCCfXofwkHz.mov-->
   
 ## Code Repository
